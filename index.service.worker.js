@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792851218|9864262';
+const CACHE_VERSION = '1794009930|9854577';
 /** @type {string} */
 const CACHE_PREFIX = 'Terra-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
